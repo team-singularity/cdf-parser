@@ -14,3 +14,7 @@
     ```bash
     pip install -r requirements.txt
     ```
+   
+## Useful Links
+
+* [Sweap Data User Guide](http://sweap.cfa.harvard.edu/sweap_data_user_guide.pdf)
