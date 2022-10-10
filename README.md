@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* CDF
+* CDF Software Distribution
   * [Windows](https://spdf.gsfc.nasa.gov/pub/software/cdf/dist/cdf38_1/windows/cdf3.8.1_64bit_MS_Installer.msi)
   * [MacOS](https://spdf.gsfc.nasa.gov/pub/software/cdf/dist/cdf38_1/macosx/CDF3_8_1-binary_signed.pkg)
 
