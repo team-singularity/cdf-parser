@@ -30,6 +30,7 @@
     ```bash
     python app.py
    ```
+6. Navigate to `localhost:5000` in your browser. There is one available endpoint: `/data`.
    
 ## Useful Links
 
