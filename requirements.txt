@@ -1,2 +1,3 @@
 numpy
-spacepy
+spacepy~=0.4.1
+Flask~=2.2.2

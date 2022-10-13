@@ -14,6 +14,22 @@
     ```bash
     pip install -r requirements.txt
     ```
+4. Set environment variable `CDF_BASE` to the directory of the CDF installation.
+
+    Linux/MacOS:
+    ```bash
+    export CDF_BASE=/path/to/cdf38_1-dist
+    ```
+   
+    Windows:
+    ```bash
+    set CDF_BASE=F:\Programming\singularity\cdf38_1-dist
+    ```
+   Intellij Idea users can set this in the run configuration.
+4. Run Flask server.
+    ```bash
+    python app.py
+   ```
    
 ## Useful Links
 
