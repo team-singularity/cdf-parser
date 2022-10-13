@@ -26,7 +26,7 @@
     set CDF_BASE=F:\Programming\singularity\cdf38_1-dist
     ```
    Intellij Idea users can set this in the run configuration.
-4. Run Flask server.
+5. Run Flask server.
     ```bash
     python app.py
    ```
